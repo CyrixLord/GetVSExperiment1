@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\dev\\c#\\getvsexperiment1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\dev\\c#\\getvsexperiment1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\dev\\c#\\getvsexperiment1\\ConsoleApp1\\src.csproj",
+      "projectName": "src",
+      "projectPath": "C:\\dev\\c#\\getvsexperiment1\\ConsoleApp1\\src.csproj",
       "packagesPath": "C:\\Users\\v-aarone\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\c#\\getvsexperiment1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
